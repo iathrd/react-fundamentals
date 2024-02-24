@@ -1,6 +1,4 @@
 import { useCallback, useState } from 'react';
-import './styles.css'
-
 import Search from './Search';
 
 const allUsers = [
@@ -20,7 +18,6 @@ const allUsers = [
     return newArray;
  }
 
- <style></style>
 
 export default function Demo() {
   const [users, setUsers] = useState(allUsers);

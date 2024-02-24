@@ -1,3 +1,11 @@
 .coba {
     background-color: red;
 }
+
+.d-flex{
+    display: flex;
+}
+
+.align-items-center{
+    align-items: center;
+}
