@@ -1,11 +1,11 @@
 import './App.css'
-import UseEffectDemo from './components/react-useeffect'
+import UseRefDemo from './components/react-useref'
 
 function App() {
 
   return (
     <>
-     <UseEffectDemo />
+     <UseRefDemo />
     </>
   )
 }
