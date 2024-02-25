@@ -1,11 +1,11 @@
 import './App.css'
-import UseRefDemo from './components/react-useref'
+import UseReducerDemo from './components/react-usereducer'
 
 function App() {
 
   return (
     <>
-     <UseRefDemo />
+     <UseReducerDemo/>
     </>
   )
 }
