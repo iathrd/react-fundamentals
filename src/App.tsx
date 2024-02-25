@@ -1,11 +1,11 @@
 import './App.css'
-import UseReducerDemo from './components/react-usereducer'
+import UseImperativeHandleDemo from './components/react-useimperativehandle'
 
 function App() {
 
   return (
     <>
-     <UseReducerDemo/>
+     <UseImperativeHandleDemo />
     </>
   )
 }
