@@ -1,11 +1,11 @@
 import './App.css'
-import Demo from './components/react-usecallback'
+import MemoDemo from './components/react-usememo'
 
 function App() {
 
   return (
     <>
-      <Demo/>
+     <MemoDemo />
     </>
   )
 }
