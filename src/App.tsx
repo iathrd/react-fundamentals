@@ -1,11 +1,11 @@
 import './App.css'
-import UseDifferedValueDemo from './components/react-usedeferredValue'
+import UseLayoutEffectDemo from './components/react-uselayouteffect'
 
 function App() {
 
   return (
     <>
-     <UseDifferedValueDemo/>
+     <UseLayoutEffectDemo/>
     </>
   )
 }
