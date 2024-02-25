@@ -1,11 +1,11 @@
 import './App.css'
-import MemoDemo from './components/react-usememo'
+import UseEffectDemo from './components/react-useeffect'
 
 function App() {
 
   return (
     <>
-     <MemoDemo />
+     <UseEffectDemo />
     </>
   )
 }
