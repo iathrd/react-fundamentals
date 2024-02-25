@@ -1,11 +1,11 @@
 import './App.css'
-import UseImperativeHandleDemo from './components/react-useimperativehandle'
+import UseDifferedValueDemo from './components/react-usedeferredValue'
 
 function App() {
 
   return (
     <>
-     <UseImperativeHandleDemo />
+     <UseDifferedValueDemo/>
     </>
   )
 }
